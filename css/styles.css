@@ -24,6 +24,13 @@ body{
     color: #2E2F42;
     font-weight: 500;
 }
+
+.nav-item:hover{
+    color: #404BBF;
+}
+.nav-item:focus{
+    color: #404BBF;
+}
 .adress-menu{
    font-style: normal; 
 }
@@ -36,6 +43,20 @@ body{
 }
 .adress-link:focus{
     color: #404bbf;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
 }
 
 .title{
@@ -51,8 +72,7 @@ body{
     text-align: center;
 }
 .but-service{
-    background: #4D5AE5;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     color: #FFF;
     font-weight: 500;
     cursor: pointer;
@@ -63,7 +83,6 @@ body{
 }
 .but-service:hover,
 .but-service:active{
-    color: #404bbf;
     background-color: #404BBF
 }
 .info-text{

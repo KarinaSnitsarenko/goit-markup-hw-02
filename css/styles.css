@@ -1,0 +1,89 @@
+body{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.50;
+    letter-spacing: 0.32px;
+}
+.web-logo{
+    color: #4D5AE5;
+}
+
+.logo{
+    color: #2E2F42;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.nav-list>li{
+    color: #2E2F42;
+    font-weight: 500;
+}
+.adress-link{
+    color: #434455;
+}
+
+.title{
+    color: #FFF;
+    text-align: center;
+    font-weight: 700;
+}
+.sect-one{
+    background: #2E2F42;
+    text-align: center;
+}
+.but-service{
+    border-radius: 4px;
+    background: #4D5AE5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    color: #FFF;
+    font-weight: 500;
+    letter-spacing: 0.64px;
+}
+
+.info-text{
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.info-title{
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    width: 264px;
+}
+.sect-team{
+    background: #F4F4FD;
+}
+
+h2{
+    color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+.foot-style{
+    background:#2E2F42;
+}
+.foot-logo{
+    color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    font-family: Raleway, sans-serif;
+}
+.foot-text{
+    color: #F4F4FD;
+}

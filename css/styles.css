@@ -65,7 +65,6 @@ body{
 }
 .but-service{
     background-color: #4D5AE5;
-    
     color: #FFF;
     font-weight: 500;
     cursor: pointer;
@@ -79,9 +78,10 @@ body{
     background-color: #404BBF;
 }
 
-.but-service:active{
+.but-service:focus{
     background-color: #404BBF
 }
+
 .info-text{
     color: #434455;
     font-size: 16px;
